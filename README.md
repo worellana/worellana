@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Williams Orellana ✌
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=worellana&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=worellana&show_icons=true&theme=radical)
 
 <!--
 **worellana/worellana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
