@@ -1,12 +1,14 @@
-### <div align="center"> Hi there 👋 I'm Williams Orellana ✌ a Software engineer 👨‍💻 </div>
+## <div align="center"> Hi there 👋 I'm Williams Orellana ✌ a Software engineer 👨‍💻 </div>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
+- 🔭 I’m currently working as [information technology security](https://en.wikipedia.org/wiki/Computer_security) official
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes
+- 🌱 I’m currently learning Node.js and React
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to .NET and related technologies
 
 - ⚡ Fun fact: I use tabs over spaces
+
+- 💬 Sometimes I write at my [Journal](https://williamsorellana.rocks)
 
 <br/>
 
