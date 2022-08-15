@@ -12,6 +12,13 @@
 
 <br/>
 
+## �� Music
+<img
+src="https://spotify-badge-worellana.vercel.app/api/now-playing.svg"
+	width="540"
+	height="52"
+/>
+
 ## 🛠 Technologies and tools
 
 <a name="learning-now"></a>
