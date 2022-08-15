@@ -12,7 +12,7 @@
 
 <br/>
 
-## �� Music
+## 🎶 Music
 <img
 src="https://spotify-badge-worellana.vercel.app/api/now-playing.svg"
 	width="540"
