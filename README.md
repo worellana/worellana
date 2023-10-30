@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces
 
-- 💬 Sometimes I write at my [Journal](https://williamsorellana.rocks)
+- 💬 Sometimes I write at my [Journal](https://williamsorellana.com)
 
 <br/>
 
