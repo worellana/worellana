@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as [information technology security](https://en.wikipedia.org/wiki/Computer_security) official
 
-- 🌱 I’m currently learning Node.js and React
+- 🌱 I’m currently learning Python and Kotlin
 
 - ❓ Ask me about anything related to .NET and related technologies
 
